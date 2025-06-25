@@ -1,4 +1,4 @@
-package nivell_1.exercici_1;
+package nivell_1.exercici_1.model;
 
 abstract public class Instrument {
 

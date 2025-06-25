@@ -1,5 +1,9 @@
 package nivell_1.exercici_1;
 
+import nivell_1.exercici_1.model.Corda;
+import nivell_1.exercici_1.model.Instrument;
+import nivell_1.exercici_1.model.Percussio;
+
 public class Main {
     public static void main(String[] args) {
 

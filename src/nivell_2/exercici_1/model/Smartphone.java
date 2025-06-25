@@ -1,6 +1,9 @@
-package nivell_2.exercici_1;
+package nivell_2.exercici_1.model;
 
-public class Smartphone extends Telefon implements Rellotge, Camara{
+import nivell_2.exercici_1.interfaces.Camara;
+import nivell_2.exercici_1.interfaces.Rellotge;
+
+public class Smartphone extends Telefon implements Rellotge, Camara {
 
     public Smartphone(String marca, String model){
         super(marca, model);

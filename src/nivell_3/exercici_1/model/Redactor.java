@@ -1,4 +1,4 @@
-package nivell_3.exercici_1;
+package nivell_3.exercici_1.model;
 
 import java.util.ArrayList;
 

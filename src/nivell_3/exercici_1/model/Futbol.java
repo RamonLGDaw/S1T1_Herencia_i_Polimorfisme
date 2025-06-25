@@ -1,6 +1,6 @@
-package nivell_3.exercici_1;
+package nivell_3.exercici_1.model;
 
-public class Futbol extends Noticia{
+public class Futbol extends Noticia {
 
     private String competicio;
     private String club;

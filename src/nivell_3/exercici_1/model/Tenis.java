@@ -1,6 +1,6 @@
-package nivell_3.exercici_1;
+package nivell_3.exercici_1.model;
 
-public class Tenis extends Noticia{
+public class Tenis extends Noticia {
     private String jugador;
 
     public Tenis(String titular, String jugador) {

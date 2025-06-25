@@ -1,4 +1,4 @@
-package nivell_1.exercici_2;
+package nivell_1.exercici_2.model;
 
 public class Cotxe {
 

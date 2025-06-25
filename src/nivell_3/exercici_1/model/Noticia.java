@@ -1,4 +1,4 @@
-package nivell_3.exercici_1;
+package nivell_3.exercici_1.model;
 
 abstract public class Noticia {
     private String titular;

@@ -1,6 +1,6 @@
-package nivell_3.exercici_1;
+package nivell_3.exercici_1.model;
 
-public class Motociclisme extends Noticia{
+public class Motociclisme extends Noticia {
 
     private String marca;
 

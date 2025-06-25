@@ -1,12 +1,11 @@
-package nivell_1.exercici_1;
+package nivell_1.exercici_1.model;
 
 public class Vent extends Instrument{
-    // S'executa únicament una vegada al carregar la classe a la jvm
+
     static {
         System.out.println("Això és un bloc static, de la classe Vent, que s'executa un cop al carregar la classe a la JVM");
     }
 
-    // Bloc d'inicialització. S'executa cada vegada que es crea una instància de la classe Vent.
     {
         System.out.println("Això és un bloc d'inicialització, de la classe Vent, que s'executa cada cop que es crea una instància.");
     }
